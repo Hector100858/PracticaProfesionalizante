@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(238, 192, 192);
+    color: rgb(201, 135, 3);
+}
+a{
+    color: rgb(21, 4, 94);
+}
+
+a:hover{
+    color: chartreuse;
+}
+a:visited{/* un  comentario */
+
+}
+img{
+    margin: 0px 500px 0px  500px;
+    padding: 10px;
+    background-color: black;
+}
+h1, h2{
+    text-align: center;
+}
